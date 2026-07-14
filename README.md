@@ -12,25 +12,27 @@
 
 ---
 
-### 👨‍💻 Sedikit Tentang Gue:
+### 👨‍💻 Sedikit Tentang Saya:
 - 🎓 Saat ini Saya berstatus sebagai Mahasiswa Teknik Informatika.
 - 💻 Lagi rajin ngulik dan eksperimen sama hal-hal seputar Web Development.
 - 🎯 Fokus bikin *layout* yang rapi dan logika yang jalan lancar.
-- 🎮 Kalau lagi nggak ngoding, biasanya gue MANCILOK (Makan, Cirik, Lalok).
+- 🎮 Kalau lagi nggak ngoding, biasanya saya MANCILOK (Makan, Cirik, Lalok).
 
 ---
 
 ## Connect with Me 🌐
 
-<a href="https://www.instagram.com/mhdnasa/" target="blank"><img src="https://img.icons8.com/fluency/144/000000/instagram-new.png" alt="mhdnasa" height="45" width="40" /></a>&nbsp;
-<a href="" target="blank"><img src="https://img.icons8.com/fluency/144/000000/spotify.png" alt="mhdnasa" height="45" width="45" /></a>&nbsp;
+<a href="https://www.instagram.com/fauzan____29/" target="blank"><img src="https://img.icons8.com/fluency/144/000000/instagram-new.png" alt="fauzan____29" height="45" width="40" /></a>&nbsp;
 
 ---
 
-### 🛠️ Tech Stack:
+### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php" alt="My Skills" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" width="40px"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="40px"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40px"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php.svg" alt="JavaScript" width="40px"/>&nbsp;&nbsp;&nbsp;
 </p>
 
 ---

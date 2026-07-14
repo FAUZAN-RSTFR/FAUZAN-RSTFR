@@ -33,7 +33,7 @@
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FAUZAN-RSTFR&show_icons=true&theme=tokyonight&hide_border=true" alt="FAUZAN's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FAUZAN-RSTFR&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="FAUZAN's GitHub Stats" />
 </p>
 
 ---

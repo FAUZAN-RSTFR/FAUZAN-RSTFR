@@ -20,19 +20,13 @@
 
 ---
 
-## Connect with Me 🌐
-
-<a href="https://www.instagram.com/fauzan____29/" target="blank"><img src="https://img.icons8.com/fluency/144/000000/instagram-new.png" alt="fauzan____29" height="45" width="40" /></a>&nbsp;
-
----
-
 ### 🛠️ Languages and Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" width="40px"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="40px"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40px"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php.svg" alt="JavaScript" width="40px"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40px"/>&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
@@ -44,18 +38,18 @@
 
 ---
 
-### 🍻 Connect Bareng Gue:
+### 🍻 Connect Bareng Saya:
 Mau mabar, atau nanya-nanya, Gas langsung ke sini:
 
 <p align="left">
   <!-- Jangan lupa ganti URL di bawah dengan link/username sosmed asli lu ya -->
-  <a href="https://instagram.com/[USERNAME_IG_LU]">
+  <a href="https://instagram.com/fauzan____29/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://linkedin.com/in/[USERNAME_LINKEDIN_LU]">
+  <a href="www.linkedin.com/in/fauzan-f29">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:[EMAIL_LU]">
+  <a href="mailto:fauzan.office29@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>

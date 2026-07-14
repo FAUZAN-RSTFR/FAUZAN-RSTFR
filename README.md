@@ -12,6 +12,8 @@
 
 ---
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=FAUZAN-RSTFR&label=Profile%20views&color=0e75b6&style=flat" alt="FAUZAN-RSTFR" /> </p>
+
 ### 👨‍💻 Sedikit Tentang Saya:
 - 🎓 Saat ini Saya berstatus sebagai Mahasiswa Teknik Informatika.
 - 💻 Lagi rajin ngulik dan eksperimen sama hal-hal seputar Web Development.

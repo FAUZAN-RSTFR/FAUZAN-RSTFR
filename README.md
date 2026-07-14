@@ -2,21 +2,28 @@
 
 <!-- Header Kalimat Berjalan (Animasi Ngetik) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=selamat+datang+bro...;apa+yang+mau+lo+lihat+disini?;disini+cuma+kodingan+biasa..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Selamat+Datang+Bro...;Apa+Yang+Mau+Dilihat+Disini?;Disini+Cuma+Kodingan+Biasa..." />
 </a>
 
-<h1>Yo! Gue FAUZAN 👋</h1>
-<h3>Mahasiswa Teknik Informatika | Ngoding for Fun ☕</h3>
+<h1>Yo! Saya FAUZAN 👋</h1>
+<h3>Jurusan Teknik Informatika | Ngoding for Fun ☕</h3>
 
 </div>
 
 ---
 
 ### 👨‍💻 Sedikit Tentang Gue:
-- 🎓 Saat ini gue berstatus sebagai Mahasiswa Teknik Informatika.
+- 🎓 Saat ini Saya berstatus sebagai Mahasiswa Teknik Informatika.
 - 💻 Lagi rajin ngulik dan eksperimen sama hal-hal seputar Web Development.
 - 🎯 Fokus bikin *layout* yang rapi dan logika yang jalan lancar.
-- 🎮 Kalau lagi nggak ngoding, biasanya gue MANCILOK.
+- 🎮 Kalau lagi nggak ngoding, biasanya gue MANCILOK (Makan, Cirik, Lalok).
+
+---
+
+## Connect with Me 🌐
+
+<a href="https://www.instagram.com/mhdnasa/" target="blank"><img src="https://img.icons8.com/fluency/144/000000/instagram-new.png" alt="mhdnasa" height="45" width="40" /></a>&nbsp;
+<a href="" target="blank"><img src="https://img.icons8.com/fluency/144/000000/spotify.png" alt="mhdnasa" height="45" width="45" /></a>&nbsp;
 
 ---
 
